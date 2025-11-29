@@ -1,0 +1,33 @@
+# robots.txt for revlek.com
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://revlek.com/sitemap.xml
+
+# Important pages
+Disallow: /api/
+Disallow: /_next/
+Disallow: /static/
+
+# Crawl delay for respectful crawling
+Crawl-delay: 1
+
+# Googlebot specific
+User-agent: Googlebot
+Allow: /
+
+# Bingbot specific  
+User-agent: Bingbot
+Allow: /
+
+# Social media crawlers
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: LinkedInBot
+Allow: /
