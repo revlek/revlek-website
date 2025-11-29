@@ -16,6 +16,8 @@ export default function TeamPage() {
       bio: "Visionary founder leading REVELEK with a focus on innovation, client success, and world-class delivery.",
       email: "info.revlek@gmail.com",
       linkedin: "https://www.linkedin.com/in/revlek-ltd-60761b390",
+      twitter: undefined,
+      github: undefined,
       expertise: ["Leadership", "Strategy", "Delivery"]
     },
     {
@@ -25,6 +27,8 @@ export default function TeamPage() {
       bio: "Operations leader ensuring smooth execution, process excellence, and consistent client satisfaction.",
       email: "info.revlek@gmail.com",
       linkedin: "https://www.linkedin.com/in/revlek-ltd-60761b390",
+      twitter: undefined,
+      github: undefined,
       expertise: ["Operations", "Process", "Growth"]
     },
     {
@@ -34,6 +38,8 @@ export default function TeamPage() {
       bio: "Technology leader driving architecture, engineering standards, and modern solutions across platforms.",
       email: "info.revlek@gmail.com",
       linkedin: "https://www.linkedin.com/in/revlek-ltd-60761b390",
+      twitter: undefined,
+      github: undefined,
       expertise: ["Architecture", "Engineering", "Innovation"]
     }
   ];
